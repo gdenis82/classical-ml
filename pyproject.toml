@@ -1,0 +1,14 @@
+[project]
+name = "my-ml"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "jupyter",
+    "imbalanced-learn",
+]
